@@ -1,0 +1,10 @@
+* lisp-unit
+
+A Test Framework for Common Lisp in the style of JUnit, designed and implemented with simplicity of use in mind.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/OdonataResearchLLC/lisp-unit.git   |
+| commit  | 89653a2  |
+| systems | lisp-unit |
+|---------+-------------------------------------------|
+
